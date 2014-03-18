@@ -1,19 +1,16 @@
-Dit is een standalone Litecoin Wallet voor uw Android apparaat. U kan direct Litecoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone BlackCoin Wallet voor uw Android apparaat. U kan direct BlackCoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Litecoin en verschillende andere valuta.
-• Verzenden en ontvangen van Litecoin via NFC, QR-codes of Litecoin URLs.
-• Adresboek voor veelgebruikte Litecoin adressen.
+• Weergeven van het wallet saldo in BlackCoin en verschillende andere valuta.
+• Verzenden en ontvangen van BlackCoin via NFC, QR-codes of BlackCoin URLs.
+• Adresboek voor veelgebruikte BlackCoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Litecoin connectiviteit en ontvangen litecoins.
+• Systeem melding over BlackCoin connectiviteit en ontvangen BlackCoins.
 • Widget voor Litecoin saldo.
 
-Voor meer informatie over Litecoin kunt u terecht op
-http://litecoin.org
-
-Als u een bijdrage wil leveren aan Litecoin Wallet, het project is te vinden op 
-https://github.com/Litecoin-Java/litecoin-wallet
+Voor meer informatie over BlackCoin kunt u terecht op
+http://blackcoin.co
 
 Licentie: GPLv3
 Gebruik op eigen risico!
